@@ -75,21 +75,21 @@ hr {
 
 .plan .food {
     background-color: #EDF5F6;
-    padding: 10px;
+    padding: 20px;
     text-align: left;
     margin: 5px;
 }
 
 .plan .shelter {
     background-color: #FFEEEE;
-    padding: 10px;
+    padding: 20px;
     text-align: left;
     margin: 5px;
 }
 
 .plan .education {
     background-color: #FFF4D6;
-    padding: 10px;
+    padding: 20px;
     text-align: left;
     margin: 5px;
 }
@@ -113,6 +113,7 @@ hr {
 .gallery {
 
     margin-left: 40px;
+    bottom: 10px;
 }
 
 .gallery h1 {
@@ -125,7 +126,23 @@ hr {
     padding: 20px;
     width: 50%;
     margin-left: 300px;
+
 }
+
+.form .email {
+    background-color: #D9D9D9;
+    border: none;
+    padding: 10px;
+}
+
+.form .subscribe {
+    background-color: #FF5959;
+    border: none;
+    padding: 10px;
+    color: #EDF5F6;
+}
+
+
 
 /*****footer area********/
 footer {
@@ -137,6 +154,7 @@ footer {
 
 footer h2 {
     color: #F05454;
+    font-size: 30px;
 }
 
 footer p {
