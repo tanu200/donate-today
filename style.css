@@ -1,0 +1,24 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.header-title {
+    background-image: url(images/donation6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.header-title h1 {
+    font-size: 40px;
+}
+
+.header-title button {
+    background-color: #FF5959;
+    border: none;
+    color: aliceblue;
+    padding: 10px;
+
+}
