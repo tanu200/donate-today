@@ -96,3 +96,18 @@ hr {
 .donate-plan h1 {
     font-size: 40px;
 }
+
+footer {
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+footer h2 {
+    color: #F05454;
+}
+
+footer p {
+    color: #EDF5F6;
+}
