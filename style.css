@@ -2,6 +2,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+/*******header area********/
 .header-title {
     background-image: url(images/donation6.jpg);
     background-repeat: no-repeat;
@@ -23,7 +24,7 @@ body {
 
 }
 
-
+/****donate today******/
 .donate {
     text-align: center;
     margin-top: 40px;
@@ -60,7 +61,7 @@ hr {
 
 }
 
-
+/*****donate plan******/
 .donate-plan {
     text-align: center;
     margin-top: 150px;
@@ -97,6 +98,36 @@ hr {
     font-size: 40px;
 }
 
+/******update-area*******/
+#update-area {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.update-title h1 {
+    font-size: 40px;
+
+}
+
+/***gallery****/
+.gallery {
+
+    margin-left: 40px;
+}
+
+.gallery h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.form {
+    background-color: #FFF4D6;
+    padding: 20px;
+    width: 50%;
+    margin-left: 300px;
+}
+
+/*****footer area********/
 footer {
     background-color: black;
     text-align: center;
