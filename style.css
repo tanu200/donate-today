@@ -15,10 +15,47 @@ body {
     font-size: 40px;
 }
 
-.header-title button {
+.donate-button {
     background-color: #FF5959;
     border: none;
     color: aliceblue;
     padding: 10px;
+
+}
+
+
+.donate {
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+.donate h2 {
+    font-size: 40px;
+
+}
+
+.donate-taka {
+    display: flex;
+    color: #707070;
+
+}
+
+.donate-taka h1 {
+    margin-left: 150px;
+}
+
+.donate-taka .taka {
+    background-color: #FFEEEE;
+    padding: 20px;
+    border: 1px solid red;
+    color: #FF5959;
+}
+
+hr {
+    width: 50%;
+    height: 2px;
+    color: gray;
+    background-color: gray;
 
 }
